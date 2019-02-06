@@ -1,0 +1,27 @@
+tr {
+  width: 100%;
+  display: inline-table;
+  table-layout: fixed;
+  padding:0px;
+  font-size: 20px;
+}
+
+th {
+  width: 100%;
+}
+
+table{
+  height:100%;
+  width: 100%;
+}
+
+.main {
+  background-color: red;
+}
+
+tbody{
+  overflow-y: scroll;
+  height:100%;
+  width: 100%;
+  position: absolute;
+}

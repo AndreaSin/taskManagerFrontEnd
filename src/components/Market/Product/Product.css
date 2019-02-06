@@ -1,0 +1,7 @@
+.prod {
+height: 330px;
+border: solid;
+padding: 10px;
+margin-bottom: 30px;
+overflow-y: hidden;
+}
